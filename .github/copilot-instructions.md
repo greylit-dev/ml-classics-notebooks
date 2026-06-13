@@ -1,0 +1,3 @@
+- This repo is a classic ML project (pandas + scikit-learn, uv env).
+- Follow the structure and rules in `ml-classic.md` at the repo root.
+- Do not introduce new env managers (no pip/conda/poetry).
